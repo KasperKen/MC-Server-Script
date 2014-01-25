@@ -3,6 +3,4 @@ todo list
 Priority      Issue                                             User
 
 (Low)         Create a Simple to use GUI                        Tanner
-(Med)         Fix IP detection                                  Kenneth
-(High)        Make many server.properties variables true/false  Kenneth
 (low)         Convert Code to Python 3                          Kenneth
