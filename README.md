@@ -1,6 +1,8 @@
 Mincraft Server Installation Automation script
 ==============================================
 
+######THIS SCRIPT IS DISCONTINUED###### Due to the the inabilaty (lack of initiative) to keep up with Minecrafts constant changes, and Bukkit/Spigots changing Compilation and installation requirements (Thanks licensing) this will no longer be maintained. Feel free to fork this and update it if you please.
+
 ######This script downloads, installs, and configures either the vinillia or bukkit minecraft server.
 
 
