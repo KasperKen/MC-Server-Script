@@ -94,7 +94,7 @@ elif install == ("y"):
         print "(1. Vanilla)(2. Bukkit)"
 
 
-
+#This needs to be updated
         server_type = raw_input ("\nWhich version would you like to download? (1 or 2): ")
 
         if server_type == ("1"): #Downloads Minecraft Server file based on users choice
